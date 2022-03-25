@@ -1,5 +1,7 @@
 
 
+<h1 align="center">Hi:</h1>
+
 <h3 align="center">Learning:pencil2:</h3>
 
 <div align="center">
@@ -23,5 +25,4 @@
 <br>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=140&section=footer)
 
