@@ -18,8 +18,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/pugcute">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=pugcute&theme=buefy&hide_title=true&show_icons=true"/> 
-  <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pugcute" ></a>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=pugcute&theme=buefy&hide_title=true&show_icons=true"></a>
+  <a href="https://solved.ac/profile/pugcute">
+    <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pugcute" ></a>
 </div>
 
 <br>
